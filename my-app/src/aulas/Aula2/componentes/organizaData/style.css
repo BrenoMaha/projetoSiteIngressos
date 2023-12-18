@@ -1,0 +1,17 @@
+form{
+    display: flex;
+    flex-direction: column;
+    width: max-content;
+    justify-content: center;
+}
+.formSelectData{
+    display:flex;
+    font-size: 20px;
+    margin: 20px 0 10px;
+    font-family: 'Gotu', sans-serif;
+    font-weight: bold;
+    gap: 20px;
+    border-style: solid;
+    padding: 20px;
+    border-radius: 20px;
+}

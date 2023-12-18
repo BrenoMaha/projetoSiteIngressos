@@ -1,0 +1,9 @@
+.lista{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+ul{
+    display: flex;
+
+}

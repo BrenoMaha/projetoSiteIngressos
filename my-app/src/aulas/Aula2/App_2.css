@@ -1,0 +1,27 @@
+
+ul {
+  list-style: none;
+}
+.lista {
+padding: 20px;
+  display: flex;
+  gap: 20px;
+  list-style: none;
+  align-items: center;
+  justify-content: center;
+  background-color: #a1c0f2;
+}
+
+.lista li {
+  background-color: rgb(255, 255, 255);
+  margin: 10px;
+  border-radius: 20px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-size: larger;
+}
+
+.selectData{
+    justify-content: center;
+    position: static;
+    display: flex;
+}

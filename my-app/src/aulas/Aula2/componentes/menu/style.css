@@ -1,0 +1,16 @@
+.menu-container {
+  background-color: black;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+button {
+  background-color: rgb(255, 255, 255);
+  padding: 5px;
+  border-radius: 20px;
+}
+
+.link {
+  text-decoration: none;
+  color: black;
+}
